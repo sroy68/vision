@@ -1,0 +1,4 @@
+core/config_private.py
+core/__pycache__/
+*.log
+*.mem

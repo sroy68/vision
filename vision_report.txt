@@ -1,0 +1,11 @@
+VISION BUG BOUNTY SECURITY REPORT
+=============================================
+Target : ../flask/
+Date   : 2026-01-28 14:04:28.871625
+
+[1] Problem : Hardcoded Secret
+    Where  : ../flask/examples/tutorial/tests/conftest.py
+    Impact : Credential leak হওয়ার ঝুঁকি
+    Fix    : Environment variable বা secret manager ব্যবহার করো
+
+Note: Analysis-only. No exploitation performed.
