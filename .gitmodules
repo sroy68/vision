@@ -1,3 +1,9 @@
 [submodule "vision-core"]
 	path = vision-core
 	url = https://github.com/sroy68/vision-core.git
+[submodule "vision-app"]
+	path = vision-app
+	url = https://github.com/sroy68/vision-app.git
+[submodule "vision-build"]
+	path = vision-build
+	url = https://github.com/sroy68/vision-build.git
