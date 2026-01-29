@@ -1,0 +1,3 @@
+[submodule "vision-core"]
+	path = vision-core
+	url = https://github.com/sroy68/vision-core.git
